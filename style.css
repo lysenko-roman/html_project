@@ -129,7 +129,7 @@ background: #ccc;
 
 @media (max-width: 1050px) {
     #content .border, #sidebar .border  {
-        margin: 0 8px;
+        margin: 8px 15px;
     }
 }
 
